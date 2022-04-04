@@ -42,8 +42,8 @@ export default {
     // Workaround to avoid enforcing hard-coded localhost:3000: https://github.com/nuxt-community/axios-module/issues/308
     // baseURL: 'http://127.0.0.1:8080',
     baseURL: 'http://45.77.252.52:8080',
-    proxyHeaders: false,
-    credentials: false
+    // proxyHeaders: false,
+    // credentials: false
   },
 
   // axios: {
